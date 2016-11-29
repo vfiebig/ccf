@@ -1,1 +1,19 @@
-
+{
+  "name": "ccf",
+  "version": "1.0.0",
+  "description": "hotsite ccf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vfiebig/ccf.git"
+  },
+  "author": "vfiebig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vfiebig/ccf/issues"
+  },
+  "homepage": "https://github.com/vfiebig/ccf#readme"
+}
